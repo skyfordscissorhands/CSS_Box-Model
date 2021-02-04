@@ -16,7 +16,8 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    border: black 10px;
+    border-style: double;
+    border-color: rgb(148, 97, 8); 75px;
     font-size: 20px;
 }
 p {
@@ -24,6 +25,8 @@ p {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    border-style: double;
+    border-color: rgb(148, 97, 8); 75px;
     width: 70%;
     text-align: center;
     line-height: 100%;
